@@ -1,3 +1,90 @@
+# Uli Engine — License, Attribution & Legal Notice
+
+Uli Engine is a cross-platform fan-made engine derivative of **Psych Engine 1.0.4**
+and **Friday Night Funkin'**. Because compiled releases combine open-source engine
+code, proprietary Uli Engine modifications, and (in FULL builds) original Friday
+Night Funkin' game assets, different components are governed by separate terms as
+detailed below.
+
+---
+
+## 1. Uli Engine Original Modifications & Releases
+
+Copyright (c) 2025-2026 Mitu (xUsoCarrusoX3). All Rights Reserved.
+
+In accordance with Section 4 of the Apache License, Version 2.0, all original
+source code, features, networking systems, native C++ optimizers, editor tools,
+UI assets, branding, and compiled release packages created specifically for
+**Uli Engine** are proprietary and **All Rights Reserved** by the author, except
+as expressly permitted below:
+
+- **Permitted Use**: You may download, install, play, stream, record videos of,
+  and create or distribute user mods for Uli Engine free of charge for personal,
+  non-commercial purposes.
+- **Restrictions**: You may not sell, commercially exploit, repackage as a paid
+  product, or redistribute modified binaries claiming to be official Uli Engine
+  releases without prior written permission from the author, nor remove any
+  copyright, license, or attribution notices.
+
+---
+
+## 2. Friday Night Funkin' Assets & Trademarks
+
+Uli Engine is an **unofficial, non-commercial fan project** and is **not
+affiliated with, endorsed by, or sponsored by The Funkin' Crew Inc.**
+
+All original **Friday Night Funkin'** artwork, character designs, sprites,
+animations, music, sound effects, charts, story content, names, and trademarks
+(including any base-game assets distributed in `FULL` builds) remain the
+exclusive property of **The Funkin' Crew Inc.** and their respective creators
+(ninjamuffin99, PhantomArcade, evilsk8r, Kawai Sprite, and contributors).
+
+- Original Friday Night Funkin' game assets are **NOT** licensed under the
+  Apache License 2.0 and remain **All Rights Reserved** by their owners.
+- Users who wish to avoid bundling base-game assets may use the `LITE` edition.
+- All third-party mods installed by users remain the sole property of their
+  respective creators.
+
+---
+
+## 3. Upstream Open-Source Software & Third-Party Libraries
+
+Uli Engine is a modified derivative work built upon the following open-source
+projects (notice of modification provided pursuant to Apache License 2.0 §4(b)):
+
+- **Friday Night Funkin' (Engine Codebase)** — Licensed under the Apache License 2.0
+  (The Funkin' Crew Inc.)
+- **Psych Engine 1.0.4** — Licensed under the Apache License 2.0
+  (Shadow Mario & Psych Engine Contributors)
+- **HaxeFlixel, OpenFL, Lime, LuaJIT, Discord RPC** — MIT License
+- **libogg & libvorbis** — BSD-3-Clause License
+- **libVLC / hxvlc (Windows builds only)** — GNU Lesser General Public License
+  v2.1 (LGPL-2.1). Unmodified dynamic libraries are distributed alongside Windows
+  builds; Android builds do not include libVLC.
+- **7-Zip-JBinding (Android builds only)** — GNU Lesser General Public License
+  v2.1 (LGPL-2.1) and respective archive decoder terms.
+
+All upstream copyright and attribution notices are retained in accordance with
+their respective licenses.
+
+---
+
+## 4. Disclaimer of Warranty & Limitation of Liability
+
+Uli Engine and its releases are provided **"AS IS"**, without warranty of any
+kind, express or implied, including but not limited to warranties of
+merchantability, fitness for a particular purpose, or non-infringement. In no
+event shall the authors or copyright holders be liable for any claim, damages,
+or other liability arising from the use of this software.
+
+---
+
+## 5. Upstream Apache License, Version 2.0 (Full Text)
+
+The following full text of the Apache License, Version 2.0 is provided in
+compliance with Section 4(a) of the license for upstream Friday Night Funkin'
+and Psych Engine components:
+
 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -174,28 +261,3 @@ Apache License
       of your accepting any such warranty or additional liability.
 
    END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
