@@ -37,3 +37,17 @@ Get the latest **Windows** (`LITE` / `FULL` / `patch`) and **Android** (`64-bit 
 * **Shadow Mario** — Main Programmer and Head of Psych Engine.
 * **Riveren** — Main Artist and Animator of Psych Engine.
 * **crowplexus**, **EliteMasterEric**, **MAJigsaw77**, **CheemsAndFriends**, **SqirraRNG**, **Keoiki**, **Kamizeta**, **MaxNeton**, **iFlicky**, **superpowers04**, **KadeDev**, **bbpanzu**.
+
+### Friday Night Funkin'
+* **The Funkin' Crew Inc.** (**ninjamuffin99**, **PhantomArcade**, **evilsk8r**, **Kawai Sprite**, and contributors) — Creators of the original **Friday Night Funkin'** game, characters, music, and artwork.
+
+---
+
+## License & Disclaimer
+Uli Engine is an **unofficial, non-commercial fan project** built on **Psych Engine 1.0.4** and **Friday Night Funkin'** (Apache License 2.0), and is not affiliated with or endorsed by **The Funkin' Crew Inc.**
+
+* **Upstream Engine Code (FNF & Psych Engine)**: Apache License 2.0.
+* **Original Friday Night Funkin' Assets & Trademarks**: All Rights Reserved by **The Funkin' Crew Inc.** (excluded from Apache 2.0).
+* **Uli Engine Original Modifications & Releases**: All Rights Reserved by Mitu (`xUsoCarrusoX3`); free for personal, non-commercial play and modding.
+
+See [LICENSE](LICENSE) for full terms and third-party notices.
